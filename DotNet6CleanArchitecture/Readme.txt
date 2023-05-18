@@ -1,0 +1,1 @@
+These two class libraries are independent of external Databases, Services and Presentations(UI)
